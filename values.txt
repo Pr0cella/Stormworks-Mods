@@ -1,0 +1,7 @@
+value="600->2000->12000" #? 
+
+force_emitter_max_force="1->30->125" #cap
+
+electric_charge_capacity="1->10->100" #internal battery?
+
+electric_magnitude="0.6->0.75->0.85" #efficiency/force req? 
