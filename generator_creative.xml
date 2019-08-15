@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition name="Creative Generator" category="10" type="31" mass="5" value="20000" flags="16384" tags="" phys_collision_dampen="0" audio_filename_start="" audio_filename_loop="" audio_filename_end="" audio_filename_start_b="" audio_filename_loop_b="" audio_filename_end_b="" audio_gain="0" mesh_data_name="meshes/component_generator_small.mesh" mesh_0_name="" mesh_1_name="" mesh_editor_only_name="" block_type="0" child_name="" extender_name="" constraint_type="0" constraint_axis="1" constraint_range_of_motion="0" max_motor_force="100" max_motor_speed="10" cable_radius="16" cable_length="-431602080" seat_pose="0" seat_health_per_sec="1" buoy_radius="1" buoy_factor="1" buoy_force="100" force_emitter_max_force="500" force_emitter_max_vector="1" force_emitter_default_pitch="0" force_emitter_blade_height="0" force_emitter_rotation_speed="1" force_emitter_blade_physics_length="4" force_emitter_blade_efficiency="0.01" force_emitter_efficiency="1" engine_max_force="1000" trans_conn_type="0" wheel_radius="0.25" button_type="1" light_intensity="1" light_range="1" light_ies_map="graphics/ies/ies_default.txtr" light_fov="1" light_type="0" door_lower_limit="-1" door_upper_limit="1" door_flipped="false" custom_door_type="0" door_side_dist="1" door_up_dist="1" dynamic_min_rotation="0" dynamic_max_rotation="3.141593" logic_gate_type="0" indicator_type="0" connector_type="0" magnet_force="1" gyro_type="0" rudder_surface_area="1" pump_pressure="0.01" water_component_type="0" torque_component_type="0" jet_engine_component_type="0" particle_speed="0.05" inventory_type="0" inventory_default_outfit="0" electric_type="1" electric_charge_capacity="1000" electric_magnitude="10000">
+	<surfaces>
+		<surface orientation="3" rotation="0" shape="3" trans_type="1">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="2" rotation="0" shape="0" trans_type="0">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="1" rotation="0" shape="0" trans_type="0">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="4" rotation="0" shape="0" trans_type="0">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="0" rotation="0" shape="0" trans_type="0">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="5" rotation="0" shape="0" trans_type="0">
+			<position x="0" y="0" z="0"/>
+		</surface>
+	</surfaces>
+	<buoyancy_surfaces/>
+	<logic_nodes>
+		<logic_node label="Power" mode="1" type="2" description="The torque power input to convert to electric energy." flags="0">
+			<position x="0" y="0" z="0"/>
+		</logic_node>
+		<logic_node label="Electric" mode="1" type="4" description="The electric connection to output electric energy." flags="0">
+			<position x="0" y="0" z="0"/>
+		</logic_node>
+		<logic_node label="Output" mode="0" type="1" description="Data output giving the electrical generation of the generator." flags="0">
+			<position x="0" y="0" z="0"/>
+		</logic_node>
+	</logic_nodes>
+	<voxels>
+		<voxel flags="1" physics_shape="0" buoy_pipes="0">
+			<position x="0" y="0" z="0"/>
+			<physics_shape_rotation 00="1" 01="0" 02="0" 10="0" 11="1" 12="0" 20="0" 21="0" 22="1"/>
+		</voxel>
+	</voxels>
+	<voxel_min x="0" y="0" z="0"/>
+	<voxel_max x="0" y="0" z="0"/>
+	<voxel_physics_min x="0" y="0" z="0"/>
+	<voxel_physics_max x="0" y="0" z="0"/>
+	<bb_physics_min x="0" y="0" z="0"/>
+	<bb_physics_max x="0" y="0" z="0"/>
+	<constraint_pos_parent x="0" y="0" z="0"/>
+	<constraint_pos_child x="0" y="0" z="0"/>
+	<voxel_location_child x="0" y="0" z="0"/>
+	<seat_offset x="0" y="0" z="0"/>
+	<seat_front x="0" y="0" z="1"/>
+	<seat_up x="0" y="1" z="0"/>
+	<seat_camera x="0" y="0" z="0"/>
+	<seat_render x="0" y="0" z="0"/>
+	<force_dir x="0" y="0" z="0"/>
+	<light_position x="0" y="0" z="0"/>
+	<light_color x="1" y="1" z="1"/>
+	<door_size x="1" y="1" z="1"/>
+	<door_normal x="0" y="0" z="1"/>
+	<door_side x="1" y="0" z="0"/>
+	<door_up x="0" y="1" z="0"/>
+	<door_base_pos x="0" y="0" z="0"/>
+	<dynamic_body_position x="0" y="0" z="0"/>
+	<dynamic_rotation_axes x="0" y="1" z="0"/>
+	<dynamic_side_axis x="1" y="0" z="0"/>
+	<magnet_offset x="0" y="0" z="0"/>
+	<tooltip_properties description="" short_description="A small generator unit for creative mode (made by ZC-9 supremeBOi)."/>
+	<reward_properties number_rewarded="1"/>
+	<jet_engine_connections_prev/>
+	<jet_engine_connections_next/>
+	<particle_direction x="0" y="1" z="0"/>
+	<particle_offset x="0" y="0" z="0"/>
+	<particle_bounds x="0.2" y="0.2" z="0.2"/>
+</definition>
+
