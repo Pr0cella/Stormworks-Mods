@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition name="Small robotic hinge child" category="2" type="7" mass="1" value="0" flags="384" tags="" audio_filename_start="" audio_filename_loop="" audio_filename_end="" audio_gain="0" mesh_data_name="meshes/component_pivot_b.mesh" mesh_0_name="" mesh_1_name="" mesh_editor_only_name="" block_type="0" child_name="" extender_name="" constraint_type="0" constraint_axis="2" constraint_range_of_motion="0" max_motor_force="100" max_motor_speed="5" cable_radius="0.02" cable_length="16" seat_pose="0" buoy_radius="1" buoy_factor="1" buoy_force="100" force_emitter_max_force="1000" force_emitter_max_vector="1" force_emitter_default_pitch="0" force_emitter_blade_height="0" force_emitter_rotation_speed="1" engine_max_force="1000" trans_conn_type="0" trans_type="0" wheel_radius="0.25" button_type="1" light_intensity="0" light_range="1" light_ies_map="graphics/ies/ies_default.txtr" light_fov="1" light_type="0" door_lower_limit="-1" door_upper_limit="1" door_flipped="false" custom_door_type="5" dynamic_min_rotation="0" dynamic_max_rotation="3.141593" logic_gate_type="0" indicator_type="0" connector_type="0" magnet_force="1" gyro_type="0" rudder_surface_area="0" pump_pressure="0" water_component_type="0" particle_speed="0.05">
+	<surfaces>
+		<surface orientation="4" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="0" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="5" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="1" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="2" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+	</surfaces>
+	<buoyancy_surfaces>
+		<surface orientation="5" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="0" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="4" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="2" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="1" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+		<surface orientation="3" rotation="0" shape="1" trans_type="0" is_reverse_normals="false">
+			<position x="0" y="0" z="0"/>
+		</surface>
+	</buoyancy_surfaces>
+	<logic_nodes/>
+	<voxels>
+		<voxel flags="1" physics_shape="0">
+			<position x="0" y="0" z="0"/>
+			<physics_shape_rotation 00="1" 01="0" 02="0" 10="0" 11="1" 12="0" 20="0" 21="0" 22="1"/>
+		</voxel>
+	</voxels>
+	<voxel_min x="0" y="0" z="0"/>
+	<voxel_max x="0" y="0" z="0"/>
+	<voxel_physics_min x="0" y="0" z="0"/>
+	<voxel_physics_max x="0" y="0" z="0"/>
+	<bb_physics_min x="0" y="0" z="0"/>
+	<bb_physics_max x="0" y="0" z="0"/>
+	<constraint_pos_parent x="0" y="0.25" z="0"/>
+	<constraint_pos_child x="0" y="-0.25" z="0"/>
+	<voxel_location_child x="0" y="0" z="0"/>
+	<seat_offset x="0" y="0" z="0"/>
+	<seat_front x="0" y="0" z="1"/>
+	<seat_up x="0" y="1" z="0"/>
+	<seat_camera x="0" y="0" z="0"/>
+	<seat_render x="0" y="0" z="0"/>
+	<force_dir x="0" y="0" z="0"/>
+	<light_position x="0" y="0" z="0"/>
+	<light_color x="1" y="1" z="1"/>
+	<door_size x="1" y="1" z="1"/>
+	<dynamic_body_position x="0" y="0" z="0"/>
+	<dynamic_rotation_axes x="0" y="1" z="0"/>
+	<dynamic_side_axis x="1" y="0" z="0"/>
+	<magnet_offset x="0" y="0" z="0"/>
+	<tooltip_properties description="" short_description=""/>
+	<reward_properties number_rewarded="1"/>
+	<particle_direction x="0" y="1" z="0"/>
+	<particle_offset x="0" y="0" z="0"/>
+	<particle_bounds x="0.2" y="0.2" z="0.2"/>
+</definition>
+
