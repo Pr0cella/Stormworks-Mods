@@ -10,7 +10,7 @@ Mods for Stormworks - Build and Rescue - For more info visit www.nexusmods.com/s
 
 ## Installation:
 ```
-Extract xml files to: \Steam\steamapps\common\Stormworks\rom\data\definitions
+Extract .xml files to: \Steam\steamapps\common\Stormworks\rom\data\definitions
 ```
 
 ## Acknowledgments
