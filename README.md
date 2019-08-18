@@ -1,6 +1,5 @@
 # Stormworks-Mods
-Mods for Stormworks - Build and Rescue
-For more info visit nexusmods.com/stormworksbuildandrescue
+Mods for Stormworks - Build and Rescue - For more info visit www.nexusmods.com/stormworksbuildandrescue
 
 ### Repository Contents
 * Creative Generator
