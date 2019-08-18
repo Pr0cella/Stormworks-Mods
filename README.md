@@ -5,6 +5,7 @@ Mods for Stormworks - Build and Rescue
 * Creative Generator
 * Creative Battery
 * Small Foghorn
+* Small Hinge
 
 
 ## Installation:
