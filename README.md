@@ -13,8 +13,15 @@ Islands
 * Submarine Island Edit
 
 ## Installation:
+
+Blocks:
 ```
-Extract .xml files to: \Steam\steamapps\common\Stormworks\rom\data\definitions
+Extract .xml files to: Stormworks\rom\data\definitions
+```
+
+Islands:
+```
+Extract .xml files to: Stormworks\rom\data\tiles
 ```
 
 ## Acknowledgments
