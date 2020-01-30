@@ -1,5 +1,5 @@
 # Stormworks-Mods
-Mods for Stormworks - Build and Rescue - For more info visit www.nexusmods.com/stormworksbuildandrescue
+Mods for Stormworks - Build and Rescue - For more info visit [NexusMods](https://www.nexusmods.com/stormworksbuildandrescue/users/70609808?tab=user+files)
 
 ### Repository Contents
 Blocks
