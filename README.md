@@ -25,4 +25,5 @@ Extract .xml files to: Stormworks\rom\data\tiles
 ```
 
 ## Acknowledgments
-> I do not claim ownership on the xml file structure, which was made by the Stormworks-Developers
+
+> Credits to Sunfire Software and Green Man Gaming Publishing for the original xml files
